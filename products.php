@@ -56,7 +56,7 @@ if(isset($_GET['product'])) {
     <div class="product-info">
       <div class="product-price">R999</div>
       <!-- <input type="button" class="product-button" name="submit" value="Add to Cart"> -->
-      <a href="products.php?product=blue" id="add-to-cart" class="product-button">Add to Cart</a>
+      <a href="products.php?product=1" id="add-to-cart" class="product-button">Add to Cart</a>
     </div>
   </div>
 
